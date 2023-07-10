@@ -1,0 +1,12 @@
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\bin\Debug\net7.0\GRLeaveManagement.Domain.deps.json
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\bin\Debug\net7.0\GRLeaveManagement.Domain.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\bin\Debug\net7.0\GRLeaveManagement.Domain.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\GRLeaveManagement.Domain.csproj.AssemblyReference.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\GRLeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\GRLeaveManagement.Domain.AssemblyInfoInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\GRLeaveManagement.Domain.AssemblyInfo.cs
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\GRLeaveManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\GRLeaveManagement.Domain.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\refint\GRLeaveManagement.Domain.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\GRLeaveManagement.Domain.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\GRLeaveManagement.Domain\obj\Debug\net7.0\ref\GRLeaveManagement.Domain.dll

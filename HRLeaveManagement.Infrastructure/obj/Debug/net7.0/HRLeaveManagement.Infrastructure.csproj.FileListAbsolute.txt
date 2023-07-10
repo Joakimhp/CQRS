@@ -1,0 +1,17 @@
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\bin\Debug\net7.0\HRLeaveManagement.Infrastructure.deps.json
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\bin\Debug\net7.0\HRLeaveManagement.Infrastructure.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\bin\Debug\net7.0\HRLeaveManagement.Infrastructure.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\bin\Debug\net7.0\GRLeaveManagement.Domain.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\bin\Debug\net7.0\HRLeaveManagement.Application.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\bin\Debug\net7.0\HRLeaveManagement.Application.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\bin\Debug\net7.0\GRLeaveManagement.Domain.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.AssemblyInfo.cs
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.csproj.CopyComplete
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\refint\HRLeaveManagement.Infrastructure.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\HRLeaveManagement.Infrastructure.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Infrastructure\obj\Debug\net7.0\ref\HRLeaveManagement.Infrastructure.dll

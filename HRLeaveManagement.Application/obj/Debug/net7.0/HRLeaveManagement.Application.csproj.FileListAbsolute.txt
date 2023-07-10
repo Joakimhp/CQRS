@@ -1,0 +1,15 @@
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Application.deps.json
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Application.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net7.0\HRLeaveManagement.Application.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net7.0\GRLeaveManagement.Domain.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net7.0\GRLeaveManagement.Domain.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.csproj.AssemblyReference.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.AssemblyInfoInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.AssemblyInfo.cs
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.csproj.CopyComplete
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\refint\HRLeaveManagement.Application.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\HRLeaveManagement.Application.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net7.0\ref\HRLeaveManagement.Application.dll

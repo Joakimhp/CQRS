@@ -1,0 +1,17 @@
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Persistence.deps.json
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Persistence.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Persistence.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\bin\Debug\net7.0\GRLeaveManagement.Domain.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Application.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\bin\Debug\net7.0\HRLeaveManagement.Application.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\bin\Debug\net7.0\GRLeaveManagement.Domain.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.csproj.AssemblyReference.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.AssemblyInfoInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.AssemblyInfo.cs
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.csproj.CopyComplete
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\refint\HRLeaveManagement.Persistence.dll
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\HRLeaveManagement.Persistence.pdb
+D:\Projects\Udemy\HRLeaveManagement.Clean\HRLeaveManagement.Persistence\obj\Debug\net7.0\ref\HRLeaveManagement.Persistence.dll
